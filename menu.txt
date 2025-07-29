@@ -4,3 +4,4 @@
 4 - Deletar
 5 - Sair
 
+escolha = str(input("Escolha uma das opções desejada: "))
