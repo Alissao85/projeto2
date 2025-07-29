@@ -1,0 +1,6 @@
+1 - Cadastro
+2 - Listar
+3 - Atualizar
+4 - Deletar
+5 - Sair
+
